@@ -32,8 +32,8 @@ class Shoe
   def condition
     @condition
   end
-  def cobble(cobble = "Your shoe is as good as new!")
-    cobble
+  def cobble
+    cobble = "Your shoe is as good as new!"
   end
   
 end
